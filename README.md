@@ -59,3 +59,42 @@ I tested multiple supervised ML models:
 ```bash
 git clone [https://github.com/poudelaman4/Iris-Flower-Classification.git](https://github.com/poudelaman4/Iris-Flower-Classification.git)
 cd Iris-Flower-Classification
+
+🚀 How to Run the Project
+1️⃣ Clone the Repository
+git clone [https://github.com/poudelaman4/Iris-Flower-Classification.git](https://github.com/poudelaman4/Iris-Flower-Classification.git)
+cd Iris-Flower-Classification
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+3️⃣ Run the Notebook
+Open Jupyter Notebook:
+
+jupyter notebook Iris_Classification.ipynb
+
+🛠️ Tech Stack
+Language: Python 🐍
+
+Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+
+IDE/Notebook: Jupyter Notebook
+
+🔮 Future Improvements
+Add hyperparameter tuning (GridSearchCV)
+
+Deploy the model using Streamlit
+
+Add PCA visualization for better insights
+
+🙌 Acknowledgements
+Dataset from Scikit-learn
+
+Visualizations powered by Seaborn & Matplotlib
+
+Inspired by the classic Iris dataset analysis 🏆
+
+🧑‍💻 Author
+Aman aoudel
+
+🔗 GitHub Profile
