@@ -5,7 +5,9 @@ A beginner-friendly **Machine Learning** project that predicts the species of an
 ---
 
 ## 📌 Overview
+
 The **Iris dataset** is one of the most popular beginner datasets in machine learning.
+
 In this project, I:
 - Explored the dataset 📊
 - Visualized relationships between features 🌿
@@ -16,27 +18,29 @@ In this project, I:
 ---
 
 ## 📂 Dataset
+
 - **Source**: Built-in dataset from `sklearn.datasets`
 - **Features**:
-    - Sepal length (cm)
-    - Sepal width (cm)
-    - Petal length (cm)
-    - Petal width (cm)
+  - Sepal length (cm)
+  - Sepal width (cm)
+  - Petal length (cm)
+  - Petal width (cm)
 - **Target Classes**:
-    - Setosa 🌺
-    - Versicolor 🌸
-    - Virginica 🌿
+  - Setosa 🌺
+  - Versicolor 🌸
+  - Virginica 🌿
 
 ---
 
 ## 🧠 Models Used
+
 I tested multiple supervised ML models:
 
-| Model | Mean Accuracy (5-Fold CV) |
-|---|---|
-| Logistic Regression | **97.3%** |
-| K-Nearest Neighbors | 96.7% |
-| Decision Tree | 95.3% |
+| Model                | Mean Accuracy (5-Fold CV) |
+|----------------------|--------------------------|
+| Logistic Regression  | **97.3%**                |
+| K-Nearest Neighbors  | 96.7%                    |
+| Decision Tree        | 95.3%                    |
 
 ---
 
@@ -56,45 +60,54 @@ I tested multiple supervised ML models:
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the Repository
+
 ```bash
-git clone [https://github.com/poudelaman4/Iris-Flower-Classification.git](https://github.com/poudelaman4/Iris-Flower-Classification.git)
+git clone https://github.com/poudelaman4/Iris-Flower-Classification.git
 cd Iris-Flower-Classification
+```
 
-🚀 How to Run the Project
-1️⃣ Clone the Repository
-git clone [https://github.com/poudelaman4/Iris-Flower-Classification.git](https://github.com/poudelaman4/Iris-Flower-Classification.git)
-cd Iris-Flower-Classification
+### 2️⃣ Install Dependencies
 
-2️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-3️⃣ Run the Notebook
+### 3️⃣ Run the Notebook
+
 Open Jupyter Notebook:
 
+```bash
 jupyter notebook Iris_Classification.ipynb
+```
 
-🛠️ Tech Stack
-Language: Python 🐍
+---
 
-Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+## 🛠️ Tech Stack
 
-IDE/Notebook: Jupyter Notebook
+- **Language:** Python 🐍
+- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+- **IDE/Notebook:** Jupyter Notebook
 
-🔮 Future Improvements
-Add hyperparameter tuning (GridSearchCV)
+---
 
-Deploy the model using Streamlit
+## 🔮 Future Improvements
 
-Add PCA visualization for better insights
+- Add hyperparameter tuning (GridSearchCV)
+- Deploy the model using Streamlit
+- Add PCA visualization for better insights
 
-🙌 Acknowledgements
-Dataset from Scikit-learn
+---
 
-Visualizations powered by Seaborn & Matplotlib
+## 🙌 Acknowledgements
 
-Inspired by the classic Iris dataset analysis 🏆
+- Dataset from Scikit-learn
+- Visualizations powered by Seaborn & Matplotlib
+- Inspired by the classic Iris dataset analysis 🏆
 
-🧑‍💻 Author
-Aman aoudel
+---
 
-🔗 GitHub Profile
+## 🧑‍💻 Author
+
+**Aman Paudel**
+
+🔗 [GitHub Profile](https://github.com/poudelaman4)
