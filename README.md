@@ -88,24 +88,7 @@ jupyter notebook Iris_Classification.ipynb
 - **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
 - **IDE/Notebook:** Jupyter Notebook
 
----
-
-## 🔮 Future Improvements
-
-- Add hyperparameter tuning (GridSearchCV)
-- Deploy the model using Streamlit
-- Add PCA visualization for better insights
-
----
-
-## 🙌 Acknowledgements
-
-- Dataset from Scikit-learn
-- Visualizations powered by Seaborn & Matplotlib
-- Inspired by the classic Iris dataset analysis 🏆
-
----
-
+--
 ## 🧑‍💻 Author
 
 **Aman Paudel**
