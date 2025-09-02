@@ -47,7 +47,7 @@ I tested multiple supervised ML models:
 ## 📊 Visualizations
 
 ### 🔹 Pairplot of Features
-![Pairplot](./pair_plot.jpg)
+![Pairplot](./pair_plot.png)
 
 ### 🔹 5-Fold Cross-Validation Accuracy
 ![Model Comparison](./5-fold-cross-validation.png)
